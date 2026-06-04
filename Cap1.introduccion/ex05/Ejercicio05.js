@@ -15,12 +15,12 @@ residuo = a % b;
 potencia = a ** b;
 
 // Imprimir resultados
-console.writeln("La suma es: ", suma);
-console.writeln("La resta es: ", resta);
-console.writeln("La multiplicación es: ", mult);
-console.writeln("La división es: ", div);
-console.writeln("El residuo es: ", residuo);
-console.writeln("La potencia es: ", potencia);
+console.writeln("La suma es: ", suma, "<br>");
+console.writeln("La resta es: ", resta, "<br>");
+console.writeln("La multiplicación es: ", mult, "<br>");
+console.writeln("La división es: ", div, "<br>");
+console.writeln("El residuo es: ", residuo, "<br>");
+console.writeln("La potencia es: ", potencia, "<br>");
 
 
 
